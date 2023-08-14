@@ -1,14 +1,14 @@
 # Simple shopping list app with flutter
 
 ## Application goal
-This app allows you that adding the items that you need to buy
+This app allows you that adding the items you need to buy
 <p><img width=200 src="screen-recording.gif"></p>
-<p>-> You can create new item that you need to buy by clicking add button in right bottom corner</p>
+<p>-> You can create new item that you need to buy by clicking add button on right bottom corner</p>
 <p>-> You can activate multiple deletion by long pressing the items.</p>
 <p>-> You can mark that you have purchased that product by single clicking on the item</p>
 
 ## Compiling & Running
-<p>You will need the Flutter structure and the <a href="https://docs.flutter.dev/get-started/install">basics it needs</a>, the app supports both Android and iOS</p>
+<p>You will need the Flutter and the <a href="https://docs.flutter.dev/get-started/install">basics it needs</a>, the app supports both Android and iOS</p>
 
 ## Structures used for development:
 
