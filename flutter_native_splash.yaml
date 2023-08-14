@@ -1,0 +1,13 @@
+flutter_native_splash:
+  image: assets/icons/png/splash-light.png
+  image_dark: assets/icons/png/splash-dark.png
+  color: "#FFFFFF"
+  color_dark: "#212121"
+  android: true
+  ios: true
+  web: false
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#212121"
+    image: assets/icons/png/splash-light.png
+    image_dark: assets/icons/png/splash-dark.png

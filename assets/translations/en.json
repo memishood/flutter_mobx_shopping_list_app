@@ -1,0 +1,17 @@
+{
+  "app_name": "MobiLab",
+  "error_message": "Something went wrong in app, please try again",
+  "network_error_message": "It seems you do not have proper network connection",
+  "empty_message": "No items found",
+  "try_again": "Try again",
+  "home": "Home",
+  "create": "Create",
+  "created_shopping_item": "Yay! you created new shopping item",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "save": "Save",
+  "item": "Item",
+  "title": "Title",
+  "price": "Price",
+  "description": "Description (Optional)"
+}
