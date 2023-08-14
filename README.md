@@ -1,4 +1,4 @@
-# Simple shopping app with flutter
+# Simple shopping list app with flutter
 
 ## Application goal
 This app allows you that adding the items that you need to buy
@@ -6,6 +6,9 @@ This app allows you that adding the items that you need to buy
 <p>-> You can create new item that you need to buy by clicking add button in right bottom corner</p>
 <p>-> You can activate multiple deletion by long pressing the items.</p>
 <p>-> You can mark that you have purchased that product by single clicking on the item</p>
+
+## Compiling & Running
+<p>You will need the Flutter structure and the <a href="https://docs.flutter.dev/get-started/install">basics it needs</a>, the app supports both Android and iOS</p>
 
 ## Structures used for development:
 
@@ -41,8 +44,6 @@ This app allows you that adding the items that you need to buy
     │   └── ui                  // Pages and mobx controllers
     │       └── ...
     └── ...
-
-## Before get started
 
 ### Json serialization
 You need to run `dart run build_runner build --delete-conflicting-outputs` whenever you change model structures
